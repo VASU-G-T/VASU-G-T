@@ -2,173 +2,214 @@
 
 # 👋 Hi, I'm G T Vasudevan
 
-### Electronics & Communication Engineering Student • Developer • IoT & AI Enthusiast
+### 🎓 Electronics & Communication Engineering Student
+### 💻 Developer • 🤖 AI & IoT Enthusiast • 🛰️ Technology Explorer
 
-<p>
-  <a href="https://github.com/VASU-G-T">
-    <img src="https://img.shields.io/badge/GitHub-VASU--G--T-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="https://leetcode.com/u/GTVASU2008/">
-    <img src="https://img.shields.io/badge/LeetCode-GTVASU2008-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
-  </a>
-  <a href="https://www.linkedin.com/in/g-t-vasudevan-4346723b9/">
-    <img src="https://img.shields.io/badge/LinkedIn-G%20T%20Vasudevan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+<p align="center">
+
+<a href="https://github.com/VASU-G-T">
+<img src="https://img.shields.io/badge/GitHub-VASU--G--T-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<a href="https://leetcode.com/u/GTVASU2008/">
+<img src="https://img.shields.io/badge/LeetCode-GTVASU2008-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+</a>
+
+<a href="https://www.linkedin.com/in/g-t-vasudevan-4346723b9/">
+<img src="https://img.shields.io/badge/LinkedIn-GT%20Vasudevan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="mailto:papathambi143@gmail.com">
+<img src="https://img.shields.io/badge/Email-papathambi143%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=ECE+Student+%7C+Developer;IoT+%7C+AI+%7C+Web+Development;Learning+DSA+and+Building+Projects;Turning+Ideas+into+Working+Projects+%F0%9F%9A%80" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=ECE+Student+%7C+Developer;Java+%7C+C%2B%2B+%7C+Python+%7C+JavaScript;AI+%7C+IoT+%7C+Embedded+Systems;Web+Development+%7C+DSA;Building+Real+World+Projects+%F0%9F%9A%80">
 
 </div>
 
 ---
 
-## 🚀 About Me
-
-- 🎓 Electronics & Communication Engineering student at **VSB Engineering College, Karur**
-- 💻 Interested in **software development, IoT, AI/ML, embedded systems and web applications**
-- 🧠 Practicing **Data Structures & Algorithms** and solving problems on LeetCode
-- 🔧 Building projects with **ESP32, Arduino, sensors and embedded hardware**
-- 🌐 Creating full-stack and Firebase-powered web applications
-- 📚 Continuously learning new technologies and improving my coding skills
-- 🎯 Goal: Build useful technology projects and grow as a developer
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Programming
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" alt="Programming Skills">
-</p>
-
-### 🌐 Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,tailwind,firebase" alt="Web Development">
-</p>
-
-### 🔌 Embedded / IoT
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino,cpp" alt="Embedded">
-</p>
-
-**Also working with:** ESP32 • Sensors • MQTT • Motor Drivers • Arduino IDE • REST APIs
-
-### 🧰 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Tools">
-</p>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Technologies |
-|---|---|---|
-| 🛰️ **ORBITA-IQ** | Satellite/orbital visualization project using orbital data and 3D visualization | JavaScript • CesiumJS • SGP4 • TLE/OMM |
-| 🌱 **Coconut AI Disease Detection** | AI-assisted plant disease detection concept with disease information and remedies | AI/ML • Python • Web |
-| 🏫 **VSB Connect** | Campus-focused social/web application for students | React • Firebase • Web |
-| 🌊 **Driven Flood Alert Node** | IoT flood monitoring and alert system using sensors and ESP32 | ESP32 • HC-SR04 • DHT11 • MQTT |
-| 🌦️ **Smart Mini Weather Satellite** | ESP32-based weather/telemetry project | ESP32 • Sensors • IoT |
-| 🚗 **ESP32 Robot Car** | Four-wheel robot car controlled through a mobile web interface | ESP32 • L298N • HTML/CSS/JS |
-
-> 💡 More projects will be added as they are completed.
-
----
-
-## 🧠 LeetCode Journey
-
-**LeetCode:** [GTVASU2008](https://leetcode.com/u/GTVASU2008/)
-
-I am using LeetCode to improve my problem-solving and DSA skills, with a focus on building strong fundamentals in arrays, strings, recursion, and algorithms.
-
-### LeetCode Metrics
-
-<img src="./metrics.plugin.leetcode.svg" alt="LeetCode statistics" width="100%">
-
----
-
-## 📊 GitHub Metrics
-
-<img src="./metrics.svg" alt="GitHub Metrics" width="100%">
-
----
-
-## 🔥 Coding Activity
-
-<img src="./metrics.plugin.habits.svg" alt="Coding habits" width="100%">
-
----
-
-## 🗓️ Contribution Calendar
-
-<img src="./metrics.plugin.isocalendar.svg" alt="Contribution calendar" width="100%">
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=VASU-G-T&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true" alt="GitHub Stats">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VASU-G-T&layout=compact&langs_count=8&hide_border=true" alt="Top Languages">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=VASU-G-T&hide_border=true" alt="GitHub Streak">
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<img src="./metrics.plugin.achievements.svg" alt="GitHub achievements" width="100%">
-
----
-
-## 📜 Certifications & Learning
-
-> Add your verified certificates here as you complete them.
-
-Example:
-
-- 📜 Course / Certification Name — Platform — Year
-- 📜 Course / Certification Name — Platform — Year
-- 📜 Course / Certification Name — Platform — Year
-
----
-
-## 🎯 Current Focus
-
-```text
-DSA & Problem Solving       ███████████████░░░░░
-Java / C++                  ██████████████░░░░░░
-Web Development             █████████████░░░░░░░
-IoT & Embedded Systems      ███████████████░░░░░
-AI / ML                     ██████████░░░░░░░░░░
-GitHub & Open Source        ████████████░░░░░░░░
-```
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/VASU-G-T">
-    <img src="https://img.shields.io/badge/GitHub-VASU--G--T-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="https://leetcode.com/u/GTVASU2008/">
-    <img src="https://img.shields.io/badge/LeetCode-GTVASU2008-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
-  </a>
-  <a href="https://www.linkedin.com/in/g-t-vasudevan-4346723b9/">
-    <img src="https://img.shields.io/badge/LinkedIn-G%20T%20Vasudevan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
-
----
+# 📊 GitHub Metrics
 
 <div align="center">
 
-### 💻 Code • Build • Learn • Repeat 🚀
-
-⭐ If you find something useful in my repositories, feel free to star it!
+<img src="./metrics.svg" width="100%" alt="GitHub Metrics">
 
 </div>
+
+---
+
+# 👨‍💻 About Me
+
+- 🎓 Electronics & Communication Engineering student at **VSB Engineering College, Karur**
+- 💻 Interested in **Software Development, AI, IoT and Embedded Systems**
+- 🧠 Practicing **Data Structures & Algorithms**
+- 🔥 Solving programming problems on **LeetCode**
+- 🔌 Working with **ESP32, Arduino and sensors**
+- 🌐 Building web applications and software projects
+- 🛰️ Interested in **Satellite Technology and 3D Visualization**
+- 🤖 Exploring **Artificial Intelligence and modern AI tools**
+- 🚀 Passionate about building practical real-world projects
+- 🌱 Always learning something new
+
+---
+
+# 💻 Programming Languages
+
+<div align="center">
+
+<a href="https://www.learncpp.com/">
+<img src="https://cdn.simpleicons.org/cplusplus" width="65" height="65" alt="C++">
+</a>
+
+<a href="https://dev.java/learn/">
+<img src="https://cdn.simpleicons.org/openjdk" width="65" height="65" alt="Java">
+</a>
+
+<a href="https://www.python.org/about/gettingstarted/">
+<img src="https://cdn.simpleicons.org/python" width="65" height="65" alt="Python">
+</a>
+
+<a href="https://www.w3schools.com/c/">
+<img src="https://cdn.simpleicons.org/c" width="65" height="65" alt="C">
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://cdn.simpleicons.org/javascript" width="65" height="65" alt="JavaScript">
+</a>
+
+</div>
+
+<p align="center">
+
+<b>Click an icon to open its learning/documentation website.</b>
+
+</p>
+
+---
+
+# 🌐 Web Development
+
+<div align="center">
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://cdn.simpleicons.org/html5" width="65" height="65" alt="HTML5">
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img src="https://cdn.simpleicons.org/css" width="65" height="65" alt="CSS">
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://cdn.simpleicons.org/javascript" width="65" height="65" alt="JavaScript">
+</a>
+
+<a href="https://react.dev/learn">
+<img src="https://cdn.simpleicons.org/react" width="65" height="65" alt="React">
+</a>
+
+<a href="https://nodejs.org/en/learn">
+<img src="https://cdn.simpleicons.org/nodedotjs" width="65" height="65" alt="Node.js">
+</a>
+
+<a href="https://expressjs.com/">
+<img src="https://cdn.simpleicons.org/express" width="65" height="65" alt="Express.js">
+</a>
+
+<a href="https://firebase.google.com/docs">
+<img src="https://cdn.simpleicons.org/firebase" width="65" height="65" alt="Firebase">
+</a>
+
+<a href="https://tailwindcss.com/docs">
+<img src="https://cdn.simpleicons.org/tailwindcss" width="65" height="65" alt="Tailwind CSS">
+</a>
+
+</div>
+
+---
+
+# 🤖 AI Tools
+
+<div align="center">
+
+<a href="https://chatgpt.com/">
+<img src="https://cdn.simpleicons.org/openai" width="65" height="65" alt="ChatGPT">
+</a>
+
+<a href="https://claude.ai/">
+<img src="https://cdn.simpleicons.org/anthropic" width="65" height="65" alt="Claude">
+</a>
+
+<a href="https://antigravity.google/">
+<img src="https://cdn.simpleicons.org/google" width="65" height="65" alt="Google Antigravity">
+</a>
+
+</div>
+
+<p align="center">
+
+<b>ChatGPT</b> •
+<b>Claude</b> •
+<b>Google Antigravity</b>
+
+</p>
+
+---
+
+# 🛠️ Developer Tools
+
+<div align="center">
+
+<a href="https://code.visualstudio.com/">
+<img src="https://cdn.simpleicons.org/visualstudiocode" width="65" height="65" alt="VS Code">
+</a>
+
+<a href="https://cursor.com/">
+<img src="https://cdn.simpleicons.org/cursor" width="65" height="65" alt="Cursor">
+</a>
+
+<a href="https://www.linux.org/">
+<img src="https://cdn.simpleicons.org/linux" width="65" height="65" alt="Linux">
+</a>
+
+<a href="https://git-scm.com/doc">
+<img src="https://cdn.simpleicons.org/git" width="65" height="65" alt="Git">
+</a>
+
+<a href="https://docs.github.com/">
+<img src="https://cdn.simpleicons.org/github" width="65" height="65" alt="GitHub">
+</a>
+
+</div>
+
+---
+
+# 🔌 IoT & Embedded Systems
+
+<div align="center">
+
+<a href="https://docs.arduino.cc/">
+<img src="https://cdn.simpleicons.org/arduino" width="65" height="65" alt="Arduino">
+</a>
+
+<a href="https://docs.espressif.com/">
+<img src="https://cdn.simpleicons.org/espressif" width="65" height="65" alt="ESP32">
+</a>
+
+</div>
+
+### 🔧 Technologies
+
+```text
+ESP32
+Arduino
+Embedded C/C++
+Sensors
+MQTT
+HC-SR04
+DHT11
+L298N
+Motor Drivers
+IoT Communication
