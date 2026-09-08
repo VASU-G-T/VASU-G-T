@@ -22,7 +22,7 @@
 </a>
 
 <a href="mailto:vasugt360@gmail.com">
-<img src="https://img.shields.io/badge/Email-papathambi143%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<img src="https://img.shields.io/badge/Email-vasugt360%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 </p>
